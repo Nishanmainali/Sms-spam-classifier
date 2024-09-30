@@ -31,5 +31,17 @@ Trained multiple machine learning models including:
 * Support Vector Machines (SVM)
 * Random Forest
 
+# 5. Evaluation
+Evaluated the models using standard classification metrics:
+* Accuracy
+* Precision
+* Recall
+
+# 6. Website and Deployment
+* Built a web interface using Flask where users can input SMS messages to classify them as spam or ham.
+* Deployed the application on Heroku for public access.
+
+
+
 
 
