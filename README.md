@@ -1,10 +1,10 @@
-# Sms-spam-classifier
+## Sms-spam-classifier
 This repository contains an SMS Spam Classifier that uses machine learning to predict whether a given SMS message is spam or not. The project covers the entire process from data cleaning to deployment.
 # Table of Contents
-  Introduction
-  Project Structure
-  Dataset
-  Steps
+  #Introduction
+  #Project Structure
+  #Dataset
+  #Steps
     Data Cleaning
     Exploratory Data Analysis (EDA)
     Text Preprocessing
@@ -13,8 +13,8 @@ This repository contains an SMS Spam Classifier that uses machine learning to pr
     Improvement
     Website
     Deployment
-  How to Run
-  Technologies Used
-  Future Improvements
-  Contributing
-  License
+  #How to Run
+  #Technologies Used
+  #Future Improvements
+  #Contributing
+  #License
