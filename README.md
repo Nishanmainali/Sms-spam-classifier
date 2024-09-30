@@ -27,9 +27,9 @@ https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 # 4. Model Building
 # * Trained multiple machine learning models including:
-** Naive Bayes
-** Support Vector Machines (SVM)
-** Random Forest
+* Naive Bayes
+* Support Vector Machines (SVM)
+* Random Forest
 
 
 
