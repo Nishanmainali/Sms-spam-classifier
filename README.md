@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 * Vectorized the messages using Term Frequency-Inverse Document Frequency (TF-IDF) for input to machine learning models.
 
 # 4. Model Building
-* Trained multiple machine learning models including:
+#* Trained multiple machine learning models including:
 ** Naive Bayes
 ** Support Vector Machines (SVM)
 ** Random Forest
