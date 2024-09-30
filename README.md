@@ -10,8 +10,9 @@ https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 # Steps
 # 1. Data cleaning:
-Performed basic data cleaning such as:
-* Removing duplicates
-* Handling missing values
-* Normalizing the text
+* Removed unnecessary columns and handled missing values.
+* Dropped duplicate entries to ensure the dataset was clean.
+* Renamed columns for clarity (v1 to target, v2 to message).
+* Converted the target column (spam or ham) into numeric form using label encoding.
+
 
