@@ -8,3 +8,10 @@ The dataset is sourced from Kaggle. It consists of labeled SMS messages as eithe
 Here is the link of dataset i used for this project: 
 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
+# Steps
+# 1. Data cleaning:
+Performed basic data cleaning such as:
+Removing duplicates
+Handling missing values
+Normalizing the text
+
